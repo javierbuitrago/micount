@@ -1,0 +1,193 @@
+*{
+	border-size: border-box;
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: url(../img/imgmain/Background.png)no-repeat center center fixed;;
+    	font-family: 'roboto', scan-serif;
+    	
+}
+
+#main {
+	display: grid;
+	height: 100vh;
+	grid-template-columns:auto-fit;	
+	grid-template-rows: 
+			[header]120px
+			[session]20px
+			[cuerpo]1fr 
+			[foot]70px;
+	grid-gap: 20px;
+
+}
+
+header {
+	background: transparent;
+}
+
+#logo {
+	width:207px;
+	margin: 12px 0px 15px 15px;	
+	animation: 1s entradalogo 1;
+	
+}
+a #logo:hover {
+	width:207px;
+	margin: 12px 0px 15px 15px;	
+	animation: 3s entradalogo1 3;
+	
+}
+@keyframes entradalogo1{
+	100% {
+		transform:rotate(1500deg);
+	}
+
+}
+@keyframes entradalogo{
+	30% {
+		transform: translate(1000px);
+	}
+
+}
+
+
+
+
+ul img{
+	width:30%;
+	height:5%;
+	
+}
+
+
+
+
+#menu{
+	width: auto;
+	height: 40px;
+	background: black;
+	
+	
+
+}
+
+
+#menu ul{
+	list-style: none;
+	display: flex;
+	justify-content:space-evenly;
+	align-items:center;
+}
+#menu a{
+	color: #fff;
+	text-decoration:none;
+	background: black;
+	
+	padding: 0px;
+	display: block;
+	
+	
+}
+
+#menu a:hover {
+	background: black;
+	color : #00afef;
+	
+	
+}
+#menu a img:hover {
+	animation: 2s menu-v 3;
+}
+@keyframes menu-v{
+	50% {
+		transform: rotate(270deg);
+	}
+
+}
+
+#menu ul ul{
+	display: none;
+	position:absolute;
+	padding:20px;
+}
+#menu ul ul a{
+	
+	padding:12px;
+}
+
+#menu ul li:hover ul{
+	display : block;
+
+}
+
+
+
+
+.session {
+	display:inline-flex;
+	justify-content:flex-end;
+	margin-right: 4%;
+	font-size: 1.2em;
+	font-weight: 900;
+	letter-spacing: 1px;
+	margin-top: -120px;
+}
+
+span {
+	margin-left: 15px;
+}
+
+.btn-salir {
+	width: 90px;
+	background: #00afef;
+	height:25px;
+	color: white;
+	padding: 5px;
+	margin-top: -5px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	letter-spacing: 1px;
+}
+
+.btn-salir:hover {
+	width: 90px;
+	background: black;
+	height:25px;
+	color: white;
+	padding: 5px;
+	margin-top: -5px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	letter-spacing: 1px;
+	border: 1px solid white;
+}
+
+a:link 
+{ 
+text-decoration:none; 
+} 
+
+
+
+
+.foot{
+	background: black;
+	color: white;
+	align-items:center;
+	letter-spacing: 1px;
+	font-size: 1.5em;
+	justify-content:center;
+	display:flex;	
+}
+@media (max-width: 300px) {
+	.row1 img, .row2 img{
+	width:11%;
+	margin-left:0%;
+	}
+}
+ 
+
+

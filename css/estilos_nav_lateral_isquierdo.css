@@ -1,0 +1,113 @@
+.aside_lateral_isquierdo {
+    margin-top: 25px;
+    margin-left: -50px;
+    width: 100%;
+    padding: 1px;
+}
+
+.lista_enlace {
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    width: 100%;
+    cursor: pointer;
+    text-align: center;
+}
+
+.lista_lateral1 {
+    background-color: #b3d561;
+}
+
+.lista_lateral2 {
+    background-color: #b3d561;
+}
+
+.lista_lateral3 {
+    background-color: #b3d561;
+}
+
+.lista_lateral4 {
+    background-color: #b3d561;
+}
+
+.lista_lateral5 {
+    background-color: #b3d561;
+}
+
+.lista_lateral6 {
+    background-color: #b3d561;
+}
+
+.lista_lateral7 {
+    background-color: #b3d561;
+}
+
+.submenu1 {
+    background-color: #b3d561;
+    padding: 10px;
+    box-shadow: 2px 5px 0px 1px #000;
+    text-align: justify-all;
+    margin-bottom: 15px;
+}
+
+.submenu2 {
+    background-color: #2a4f96;
+    padding: 10px;
+    box-shadow: 2px 5px 0px 1px #000;
+    text-align: justify-all;
+    margin-bottom: 15px;
+}
+
+.submenu3 {
+    background-color: #2a4f96;
+    padding: 10px;
+    box-shadow: 2px 5px 0px 1px #000;
+    text-align: justify-all;
+    margin-bottom: 15px;
+}
+
+.submenu6 {
+    background-color: #2a4f96;
+    padding: 10px;
+    box-shadow: 2px 5px 0px 1px #000;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.submenu1 li a {
+    color: white;
+    text-decoration: none;
+}
+
+.submenu2 li a {
+    color: white;
+    text-decoration: none;
+}
+
+.submenu3 li a {
+    color: white;
+    text-decoration: none;
+}
+
+.submenu6 li a {
+    color: white;
+    text-decoration: none;
+}
+
+.lista {
+    box-shadow: none;
+    text-decoration: none;
+    transition: all 1s ease;
+    -webkit-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+}
+
+.lista:hover {
+    box-shadow: 0px 1px 0px 0px #913422;
+    font-size: 17px;
+}
+
+.lista-link {
+    color: white;
+}

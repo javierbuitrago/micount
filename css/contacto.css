@@ -1,0 +1,239 @@
+*{
+	border-size: border-box;
+	 margin: 0;
+	padding: 0;
+
+		
+}
+body{
+	background: url(../img/imgmain/Background.png)no-repeat center center fixed;
+    	font-family: 'roboto', scan-serif;
+
+   
+} 
+
+
+
+
+#cuerpo {
+	display:grid;
+	grid-template-columns:
+		[articule]1fr;
+	
+		
+
+
+}
+
+
+
+footer{
+	display:flex;
+	grid-row: 10/11;
+	align-items:center;
+	justify-content:center;
+	background: black;
+	color:white;
+
+}
+
+article{
+	
+	display:grid;
+	grid-column:auto;
+}
+
+
+
+aside{
+	
+	background:#00afef;
+	color:white;
+	font-weight: 700;
+	height: 100vh;
+	letter-spacing: 1px;
+	display: none;
+
+
+}
+
+#actionbar-head {
+	display:flex;
+	justify-content:center;
+	height:28px;
+	align-items: center;
+	background:#ccc;
+	
+
+}
+
+.session {
+	width:200px;
+	
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	padding: 3px;
+	border : 0 0 0 1px solid black;
+
+}
+
+.inp-buscar {
+	width:100px;
+	
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	padding: 3px;
+}
+
+.btn-menu-hambur {
+	width:100px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	padding: 3px;
+}
+
+.btn-agg {
+	width:60px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	padding: 3px;
+}
+
+.ayuda {
+	width: 150px;
+	
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	padding: 3px;
+}
+
+.soporte {
+	width: 100px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	padding: 3px;
+}
+
+.actionbar-cont {
+	display:grid;
+	grid-auto-flow: column;
+	justify-content:stretch;
+	align-items:center;
+	margin:0 0 0 20px;
+
+}
+.actionbar-cont a{
+	text-decoration:none;
+	
+	
+	padding: 8px;
+	color:black;
+	display:flex;
+	align-items:center;
+}
+
+.exportar img{
+	width:17px;
+	margin-right:px;
+	margin-left:0px;
+}
+.filtros {
+	display:grid;
+	grid-auto-flow:column;
+}
+
+.filtros > input {
+	width:80%;
+}
+
+.espac {
+	width: 25%;
+}
+
+.headTab {
+	display:flex;
+	align-items:center;
+	justify-content:space-around;
+	padding: 5px;
+}
+
+#nfdv {
+	width:auto;
+}
+
+
+
+
+
+
+
+
+
+#cuerpoFactura{
+
+	padding:55px;
+	width:auto;
+	background:white;
+	border : 2px solid #f3f3f3;
+	margin: 5%;
+
+}
+
+.labelInp{
+	padding:1px;
+	border:1px solid #9ba09b;
+	width:50%;
+	padding:3px;;
+	margin-bottom:4%;
+
+}
+
+.labelTex{
+	width:100px;
+	margin-right:13px;
+	font-weight:400;
+	font-family:roboto;
+
+}
+
+#head-in{
+	display:flex;
+
+}
+
+#head-in-left{
+	display:flex;
+	margin-right:auto;
+	width:45%;
+	align-items:stretch;
+	justify-content:space-around;
+	flex-direction:column;
+
+
+
+}
+
+
+
+#head-in-right{
+	display:flex;
+	flex-direction:column;
+	justify-content:space-around;
+	align-items:stretch;
+	margin-left:auto;
+	width:45%;
+
+}
+
+
+
+span{
+	color:red;
+	margin:3;
+}

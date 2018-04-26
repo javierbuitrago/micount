@@ -1,0 +1,45 @@
+[09-Apr-2018 07:39:24 UTC] PHP Notice:  Undefined variable: plan in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/crearFactura.php on line 144
+[09-Apr-2018 07:39:24 UTC] PHP Notice:  Undefined variable: plan in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/crearFactura.php on line 146
+[09-Apr-2018 07:39:24 UTC] PHP Notice:  Undefined variable: tareas in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/crearFactura.php on line 159
+[09-Apr-2018 07:39:24 UTC] PHP Notice:  Undefined variable: plan in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/crearFactura.php on line 179
+[09-Apr-2018 07:39:24 UTC] PHP Notice:  Undefined variable: plan in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/crearFactura.php on line 180
+[09-Apr-2018 07:39:24 UTC] PHP Notice:  Undefined variable: plan in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/crearFactura.php on line 181
+[09-Apr-2018 07:39:24 UTC] PHP Notice:  Undefined variable: plan in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/crearFactura.php on line 185
+[09-Apr-2018 07:39:24 UTC] PHP Notice:  Undefined variable: plan in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/crearFactura.php on line 187
+[09-Apr-2018 07:39:24 UTC] PHP Notice:  Undefined variable: estrategias in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/crearFactura.php on line 204
+[09-Apr-2018 10:27:49 UTC] PHP Notice:  Undefined index: id in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 4
+[09-Apr-2018 10:27:49 UTC] PHP Notice:  Undefined index: objetivoGeneral in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 6
+[09-Apr-2018 10:27:49 UTC] PHP Notice:  Undefined index: objetivosEspecificos in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 7
+[09-Apr-2018 10:27:49 UTC] PHP Notice:  Undefined index: estrategias in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 9
+[09-Apr-2018 10:27:49 UTC] PHP Notice:  Undefined index: alineamientos in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 10
+[09-Apr-2018 10:27:49 UTC] PHP Fatal error:  Call to undefined function ejecutarQuery() in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 11
+[09-Apr-2018 14:18:11 UTC] PHP Notice:  Undefined index: id in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 4
+[09-Apr-2018 14:18:11 UTC] PHP Notice:  Undefined index: objetivoGeneral in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 6
+[09-Apr-2018 14:18:11 UTC] PHP Notice:  Undefined index: objetivosEspecificos in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 7
+[09-Apr-2018 14:18:11 UTC] PHP Notice:  Undefined index: estrategias in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 9
+[09-Apr-2018 14:18:11 UTC] PHP Notice:  Undefined index: alineamientos in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 10
+[09-Apr-2018 14:18:11 UTC] PHP Fatal error:  Call to undefined function ejecutarQuery() in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 11
+[09-Apr-2018 19:02:17 UTC] PHP Notice:  Undefined index: id in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 4
+[09-Apr-2018 19:02:17 UTC] PHP Notice:  Undefined index: objetivoGeneral in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 6
+[09-Apr-2018 19:02:17 UTC] PHP Notice:  Undefined index: objetivosEspecificos in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 7
+[09-Apr-2018 19:02:17 UTC] PHP Notice:  Undefined index: estrategias in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 9
+[09-Apr-2018 19:02:17 UTC] PHP Notice:  Undefined index: alineamientos in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 10
+[09-Apr-2018 19:02:17 UTC] PHP Fatal error:  Call to undefined function ejecutarQuery() in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 11
+[09-Apr-2018 19:02:31 UTC] PHP Notice:  Undefined index: id in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 4
+[09-Apr-2018 19:02:31 UTC] PHP Notice:  Undefined index: objetivoGeneral in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 6
+[09-Apr-2018 19:02:31 UTC] PHP Notice:  Undefined index: objetivosEspecificos in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 7
+[09-Apr-2018 19:02:31 UTC] PHP Notice:  Undefined index: estrategias in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 9
+[09-Apr-2018 19:02:31 UTC] PHP Notice:  Undefined index: alineamientos in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 10
+[09-Apr-2018 19:02:31 UTC] PHP Fatal error:  Call to undefined function ejecutarQuery() in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 11
+[10-Apr-2018 07:17:31 UTC] PHP Parse error:  syntax error, unexpected '',".$vencimientof."'' (T_CONSTANT_ENCAPSED_STRING) in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 54
+[10-Apr-2018 07:17:51 UTC] PHP Parse error:  syntax error, unexpected '',".$vencimientof."'' (T_CONSTANT_ENCAPSED_STRING) in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 54
+[10-Apr-2018 07:19:49 UTC] PHP Parse error:  syntax error, unexpected '',".$vencimientof."'' (T_CONSTANT_ENCAPSED_STRING) in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 54
+[10-Apr-2018 07:30:00 UTC] PHP Notice:  Undefined variable: sqlClie in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 10
+[10-Apr-2018 07:30:00 UTC] PHP Notice:  Undefined variable: statement in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 12
+[10-Apr-2018 07:30:00 UTC] PHP Fatal error:  Call to a member function fetchAll() on null in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 12
+[10-Apr-2018 07:39:46 UTC] PHP Notice:  Undefined variable: sqlClie in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 10
+[10-Apr-2018 07:39:46 UTC] PHP Notice:  Undefined variable: statement in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 12
+[10-Apr-2018 07:39:46 UTC] PHP Fatal error:  Call to a member function fetchAll() on null in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 12
+[11-Apr-2018 19:51:58 UTC] PHP Notice:  Undefined variable: sqlClie in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 10
+[11-Apr-2018 19:51:58 UTC] PHP Notice:  Undefined variable: statement in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 12
+[11-Apr-2018 19:51:58 UTC] PHP Fatal error:  Call to a member function fetchAll() on null in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/factu/registrarFactura.php on line 12

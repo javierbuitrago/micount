@@ -1,0 +1,16 @@
+.legend_login{
+    text-align: center;
+    color: white;
+}
+.form_login{
+    padding: 10px;
+}
+.container_form{
+    background-color:transparent;
+    border-radius: 10%;
+}
+.container_all_form{
+    padding: 40px;
+    border-radius: 10%;
+    background-color: dodgerblue;
+}

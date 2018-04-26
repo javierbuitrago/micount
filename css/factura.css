@@ -1,0 +1,278 @@
+*{
+	border-size: border-box;
+	 margin: 0;
+	padding: 0;
+
+		
+}
+body{
+	background: url(../img/imgmain/Background.png)no-repeat center center fixed;
+    	font-family: 'roboto', scan-serif;
+
+   
+} 
+}
+
+#mainCont{
+   	display:grid;
+	grid-template-rows: 
+    	[header-star header-end]70px
+    	[cuerpo]1fr  
+    	[footer-start footer-end]110px;
+   	grid-template-area:
+   	"header"
+	"article"
+	"aside-derecha"
+	"footer";
+			height:-webkit-fill-available;
+ 	  
+}
+
+#cuerpo {
+	display:grid;
+	grid-template-columns:
+		[articule]1fr;
+
+}
+
+footer{
+	display:flex;
+	grid-row: 10/11;
+	align-items:center;
+	justify-content:center;
+	background: black;
+	color:white;
+
+}
+
+article{
+	
+	display:grid;
+	grid-column:auto;
+}
+
+
+
+
+#actionbar-head {
+	display:flex;
+	justify-content:center;
+	height:28px;
+	align-items: center;
+	background:#ccc;
+	
+
+}
+
+
+.inp-buscar {
+	width:100px;
+	
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	padding: 3px;
+}
+
+.btn-menu-hambur {
+	width:100px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	padding: 3px;
+}
+
+.btn-agg {
+	width:60px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	padding: 3px;
+}
+
+.ayuda {
+	width: 150px;
+	
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	padding: 3px;
+}
+
+.soporte {
+	width: 100px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	padding: 3px;
+}
+
+.actionbar-cont {
+	display:grid;
+	grid-auto-flow: column;
+	justify-content:stretch;
+	align-items:center;
+	margin:0 0 0 20px;
+
+}
+.actionbar-cont a{
+	text-decoration:none;
+	
+	
+	padding: 8px;
+	color:black;
+	display:flex;
+	align-items:center;
+}
+
+.exportar img{
+	width:17px;
+	margin-right:px;
+	margin-left:0px;
+}
+.filtros {
+	display:grid;
+	grid-auto-flow:column;
+}
+
+.filtros > input {
+	width:80%;
+}
+
+.espac {
+	width: 25%;
+}
+
+.headTab {
+	display:flex;
+	align-items:center;
+	justify-content:space-around;
+	padding: 5px;
+}
+
+#nfdv {
+	width:auto;
+}
+
+
+
+#cuerpoFactura{
+
+	padding:55px;
+	width:auto;
+	background:white;
+	border : 2px solid #f3f3f3;
+	margin: 5%;
+
+}
+
+.labelInp{
+	padding:1px;
+	border:1px solid #9ba09b;
+	width:50%;
+	padding:3px;;
+	margin-bottom:4%;
+
+}
+
+.labelTex{
+	width:100px;
+	margin-right:13px;
+	font-weight:400;
+	font-family:roboto;
+
+}
+
+#head-in{
+	display:flex;
+
+}
+
+#head-in-left, #hidde-in-left{
+	display:flex;
+	margin-right:auto;
+	width:45%;
+	align-items:stretch;
+	justify-content:space-around;
+	flex-direction:column;
+
+
+
+}
+
+
+
+#head-in-right, #hidde-in-right{
+	display:flex;
+	flex-direction:column;
+	justify-content:space-around;
+	align-items:stretch;
+	margin-left:auto;
+	width:45%;
+
+}
+
+#hidde-in{
+	display:flex;
+}
+
+span{
+	color:red;
+	margin:3;
+}
+
+.footIn{
+	display:flex;
+	
+
+
+
+}
+
+
+
+.footInRight{
+display:flex;
+	flex-direction:column;
+	justify-content:stretch;
+	align-items:stretch;
+	margin-left:auto;
+	width:30%;
+}
+
+
+
+.footInp{
+	border:px solid ;
+	width:40%;
+	padding:0px;
+	margin-bottom:0;
+	text-align:right;
+
+}
+
+.footTex{
+	width:100px;
+	margin-right:1px;
+	font-weight:400;
+	font-family:roboto;
+
+}
+		
+hr{
+	border: 5px solid black;
+}		
+
+h4{
+	display:inline-flex;
+	
+}
+
+.footTotal{
+	width:100px;
+	margin-right:1px;
+	font-weight:600;
+	font-family:roboto;
+	font-size:1.5em;
+
+}

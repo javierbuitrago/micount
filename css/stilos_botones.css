@@ -1,0 +1,11 @@
+.legenda{
+	width: 100%;
+	background-color: #159;
+	border-radius: 2px;
+	border-color: blue;
+	color: white;
+	text-align: center;
+	border-top: 10px solid gray;
+	cursor: pointer;
+
+}
