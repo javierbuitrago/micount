@@ -75,7 +75,7 @@
                     
                 </ul>
            </li>
-           <li><a href="perfil.php"><img src="img/iconta/configuracion icon.png">Configuracion</a>
+           <li><a href="config"><img src="img/iconta/configuracion icon.png">Configuracion</a>
                 
                 <ul class="submenu">
 

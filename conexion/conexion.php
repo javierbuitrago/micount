@@ -1,7 +1,7 @@
 <?php
-$dts="mysql:dbname=sistemacount;host=localhost;";
-$user="brayan";
-$pass="brayan";
+$dts="mysql:dbname=sistemaCount;host=localhost;";
+$user="root";
+$pass="";
 try {
 	$pdo=new pdo($dts,$user,$pass);
 

@@ -1,2 +1,6 @@
 [26-Apr-2018 14:26:34 UTC] PHP Warning:  require_once(conexion/conexion.php): failed to open stream: No such file or directory in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/config/perfil.php on line 3
 [26-Apr-2018 14:26:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'conexion/conexion.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/config/perfil.php on line 3
+[26-Apr-2018 15:24:20 UTC] PHP Warning:  require_once(conexion/conexion.php): failed to open stream: No such file or directory in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/config/index.php on line 3
+[26-Apr-2018 15:24:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'conexion/conexion.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/config/index.php on line 3
+[26-Apr-2018 15:24:53 UTC] PHP Warning:  include(menuFreenet.php): failed to open stream: No such file or directory in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/config/index.php on line 29
+[26-Apr-2018 15:24:53 UTC] PHP Warning:  include(): Failed opening 'menuFreenet.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/np8hmy5nzbwd/public_html/ingjavierbuitrago.com/count/config/index.php on line 29
